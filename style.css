@@ -1,0 +1,8 @@
+.top {
+    margin: auto;
+    width: 50%;
+    border: lightgreen 3px;
+    padding: 10px;
+    background-color: aqua;
+    display:flex;
+}
